@@ -1,0 +1,1 @@
+This is a repo where I implement the concepts that I learn through small projects.
