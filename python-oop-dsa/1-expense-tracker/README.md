@@ -49,4 +49,4 @@ Handles add, remove, filter, monthly summary, and CSV export.
 
 ![alt text](image.png)
 
-### Note: This small project is completed by me taking help from external source when stuck, ps the readme is half generate by AI and half edited by me(bcoz it will be quite boring to write whole readme by myself)
+### Note: This small project is completed by me taking help from external source when stuck, ps the readme is half generate by AI and half edited by me(bcoz it will be quite boring to write whole readme by myself🙃)
